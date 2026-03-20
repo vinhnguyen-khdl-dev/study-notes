@@ -846,7 +846,7 @@ pascal_triangle <- function(n) {
   return(triangle)
 }
 
-pascal_triangle()
+pascal_triangle(5)
 # 3. Viết function phân loại sinh viên dựa vào điểm
 # Input: điểm số
 # Output: xếp loại (Xuất sắc, Giỏi, Khá, TB, Yếu)
